@@ -3,3 +3,4 @@ opencv-python==4.8.1.78
 numpy==1.24.4
 mediapipe==0.10.9
 ultralytics==8.0.204
+setuptools==67.7.2
